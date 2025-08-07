@@ -41,8 +41,8 @@ llm_parameterizer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/llm-parameterizer.git
-cd llm-parameterizer
+git clone https://github.com/kotapatipavan211195/LLM-Based-Python-Script-Parameterizer.git
+cd LLM-Based-Python-Script-Parameterizer
 ```
 
 ### 2. Set up a Python environment
@@ -108,7 +108,7 @@ def connect_and_download(url):
 #### Modified script
 
 ```python
-# Author: Pavan Kotapati
+# Author: Auto Generated
 # Created on: 2025-08-06
 # Last updated: 2025-08-06
 # Description: Parameterized using OpenAI LLM
