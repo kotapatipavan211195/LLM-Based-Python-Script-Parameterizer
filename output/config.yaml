@@ -1,0 +1,3 @@
+DATA_PATH: "./data/"
+OUTPUT_PATH: "./output/"
+RESULT_PATH: "./results/"
